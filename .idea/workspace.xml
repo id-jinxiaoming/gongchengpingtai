@@ -1,0 +1,2411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="fish-service:war" />
+      <artifact name="fish-service:war exploded" />
+      <artifact name="fish-web:war" />
+      <artifact name="fish-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/fish-web/src/main/java/com/ff/api/controller/ShopApiController.java" description="return result;" line="340" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2280c49-1704-46c6-aa83-16a8604a4428" name="Default" comment="OK" />
+    <ignored path="$PROJECT_DIR$/fish-common/target/" />
+    <ignored path="$PROJECT_DIR$/fish-api/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/fish-web/target/" />
+    <ignored path="$PROJECT_DIR$/fish-service/target/" />
+    <ignored path="$PROJECT_DIR$/fishstation/target/" />
+    <ignored path="$PROJECT_DIR$/fish-station/target/" />
+    <ignored path="$PROJECT_DIR$/test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2051823777">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="153" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.open.time.1" value="32" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="20" />
+          <entry key="project.open.time.12" value="22" />
+          <entry key="project.open.time.13" value="12" />
+          <entry key="project.open.time.14" value="7" />
+          <entry key="project.open.time.15" value="6" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="9" />
+          <entry key="project.opened" value="153" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1" value="1" />
+          <entry key="2019-04-19" value="1" />
+          <entry key="class" value="51" />
+          <entry key="css" value="13" />
+          <entry key="ftl" value="214" />
+          <entry key="java" value="885" />
+          <entry key="js" value="31" />
+          <entry key="jsp" value="1" />
+          <entry key="log" value="2" />
+          <entry key="php" value="5" />
+          <entry key="png" value="2" />
+          <entry key="properties" value="74" />
+          <entry key="rnc" value="2" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="158" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="51" />
+          <entry key="CSS" value="13" />
+          <entry key="Enforced Plain Text" value="3" />
+          <entry key="FTL" value="211" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="885" />
+          <entry key="JSP" value="1" />
+          <entry key="JavaScript" value="31" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Properties" value="74" />
+          <entry key="RNG Compact" value="2" />
+          <entry key="XML" value="158" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="33" />
+          <entry key="dummy" value="20" />
+          <entry key="ftl" value="7171" />
+          <entry key="java" value="18946" />
+          <entry key="js" value="574" />
+          <entry key="php" value="10" />
+          <entry key="properties" value="183" />
+          <entry key="xml" value="56" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="33" />
+          <entry key="FTL" value="7171" />
+          <entry key="JAVA" value="18946" />
+          <entry key="JavaScript" value="574" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="Properties" value="183" />
+          <entry key="XML" value="56" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fish" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/spring-quartz.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/spring-mybatis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>station</find>
+      <find>业绩展示</find>
+      <find>/insertInvoiceApplication</find>
+      <find>content/details/add</find>
+      <find>content:details:add</find>
+      <find>goodsName</find>
+      <find>title</find>
+      <find>jmsTemplate</find>
+      <find>filePicker1</find>
+      <find>filePicker10</find>
+      <find>add</find>
+      <find>check</find>
+      <find>QRCodeUtil</find>
+      <find>openImg</find>
+      <find>editor1</find>
+      <find>editor</find>
+      <find>editor_id</find>
+      <find>details</find>
+      <find>rechargePayNotify</find>
+      <find>/imageText</find>
+      <find>/fish-web</find>
+      <find>39.100</find>
+      <find>/fish-web/</find>
+      <find>jquery.min.js</find>
+      <find>compar</find>
+      <find>spring-con</find>
+      <find>quartz</find>
+      <find>dru</find>
+      <find>DelAll</find>
+      <find>freemarker</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Temp\IDEA\FISH\fish\fish-service\src\main\java\com\ff\gas\service\impl</dir>
+      <dir>E:\源码\fish-web\src\main\java\com\ff\shop\controller</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fish-api/src/main/java/com/ff/shop/model/ReservationInformation.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/api/controller/ReservationApiController.java" />
+        <option value="$PROJECT_DIR$/fish-api/src/main/java/com/ff/shop/model/FinancialNgineering.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/api/controller/FinancialNgineeringApiController.java" />
+        <option value="$PROJECT_DIR$/fish-api/src/main/java/com/ff/shop/model/ProjectCooperation.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/api/controller/ProjectCooperationApiController.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/reservation/information/list.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/engineering/management/list.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/project/cooperation/list.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/financial/procedure/list.ftl" />
+        <option value="$PROJECT_DIR$/fish-service/src/main/java/com/ff/system/service/impl/ResourcesServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/shop/controller/PerformanceDisplayController.java" />
+        <option value="$PROJECT_DIR$/fish-common/src/main/java/com/ff/common/util/ExcelUtil.java" />
+        <option value="$PROJECT_DIR$/fish-common/pom.xml" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/system/controller/CommonController.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/api/controller/ApiExcelController.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/invoice/application/create.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/test/java/CreateExcelTest.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/invoice/application/list.ftl" />
+        <option value="$PROJECT_DIR$/fish-common/src/main/java/com/ff/common/util/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/fish-web/pom.xml" />
+        <option value="$PROJECT_DIR$/fish-api/src/main/java/com/ff/shop/model/ContentDetails.java" />
+        <option value="$PROJECT_DIR$/fish-api/src/main/java/com/ff/shop/model/SupplierRepresentative.java" />
+        <option value="$PROJECT_DIR$/fish-service/src/main/java/com/ff/shop/dao/SupplierRepresentativeMapper.java" />
+        <option value="$PROJECT_DIR$/fish-api/src/main/java/com/ff/shop/service/SupplierRepresentativeService.java" />
+        <option value="$PROJECT_DIR$/fish-service/src/main/java/com/ff/shop/service/SupplierRepresentativeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/shop/controller/ContentDetailsController.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/supplier/representative/list.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/system/sms/edit.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/shop/controller/SupplierRepresentativeController.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/supplier/representative/edit.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/api/controller/SupplierRepresentativeApiController.java" />
+        <option value="$PROJECT_DIR$/fish-api/src/main/java/com/ff/shop/model/PurchasingPartner.java" />
+        <option value="$PROJECT_DIR$/fish-api/src/main/java/com/ff/shop/service/PurchasingPartnerService.java" />
+        <option value="$PROJECT_DIR$/fish-service/src/main/java/com/ff/shop/dao/PurchasingPartnerMapper.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/supplier/representative/add.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/purchasing/partner/list.ftl" />
+        <option value="$PROJECT_DIR$/fish-service/src/main/java/com/ff/shop/service/PurchasingPartnerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/shop/controller/PurchasingPartnerController.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/api/controller/PurchasingPartnerApiController.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/purchasing/partner/add.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/purchasing/partner/edit.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/image/text/list.ftl" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/api/controller/WxPayController.java" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/webapp/static/treeTable/jquery.treeTable.js" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/java/com/ff/InvoiceApplication/InvoiceApplicationController.java" />
+        <option value="$PROJECT_DIR$/fish-service/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/fish-service/src/main/resources/spring-mq.xml" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/fish-web/src/main/resources/spring-mq.xml" />
+        <option value="$PROJECT_DIR$/fish-service/src/main/resources/spring-mybatis.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="fish-api/invalid/JRebel" />
+      <facet id="fish-common/invalid/JRebel" />
+      <facet id="fish-service/invalid/JRebel" />
+      <facet id="fish-web/invalid/JRebel" />
+      <facet id="fish/invalid/JRebel" />
+    </ignored-facets>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\10312\.m2\repository" />
+        <option name="mavenHome" value="D:/MAVEN/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\MAVEN\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fish" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fish" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fish-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fish-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/fish-web/src/main/webapp/static/zTree_v3/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-57" />
+    <option name="y" value="99" />
+    <option name="width" value="1371" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Accessibility</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Chrome OS</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Lint</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Typography</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>AngularJS</id>
+          </State>
+          <State>
+            <id>Annotations verifyingGroovy</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>ArquillianJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>BPMN 2.0 configuration errors</id>
+          </State>
+          <State>
+            <id>Batch Applications Issues</id>
+          </State>
+          <State>
+            <id>Bean Validation issues</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CFML</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issuesJava</id>
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Cucumber Java</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyGroovy</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>DeclarationGroovy</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GPath inspectionsGroovy</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Haml</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME SupportJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSF annotated elements errors</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Jpdl Model</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Method MetricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pages Navigation Model</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Play</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Reflective access issuesJava</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Struts 2Struts</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>Tapestry</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Thymeleaf</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>WSDL issues</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="false" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ff" type="462c0819:PsiDirectoryNode" />
+              <item name="InvoiceApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="源码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+              <item name="fish-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="ff" type="cbb8eebc:String" user="ff" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="ff" type="cbb8eebc:String" user="ff" />
+              <item name="api" type="cbb8eebc:String" user="api" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="fish-web" type="cbb8eebc:String" user="fish-web" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="ff" type="cbb8eebc:String" user="ff" />
+              <item name="api" type="cbb8eebc:String" user="api" />
+              <item name="controller" type="cbb8eebc:String" user="controller" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="源码" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/Code/IDEA/fish/fish-common/pom.xml" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600068280303" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="last_opened_file_path" value="D:/工匠平台" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.48834628" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ff.shop.dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code\IDEA\fish\fish-web\src\main\webapp\WEB-INF\ftl\coupon\coupon" />
+      <recent name="G:\Code\IDEA\fish\fish-web\src\main\webapp\WEB-INF\ftl\integral\integral" />
+      <recent name="G:\Code\IDEA\fish\fish-web\libs" />
+      <recent name="G:\Code\IDEA\fish\fish-web\src\main\webapp\WEB-INF\ftl\rechage" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ff.api.controller" />
+      <recent name="com.ff.common.util" />
+      <recent name="com.ff.shop.service" />
+      <recent name="com.ff.shop.dao" />
+      <recent name="com.ff.shop.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\源码\fish-web\src\main\webapp\WEB-INF\ftl\purchasing\partner" />
+      <recent name="E:\源码\fish-web\src\main\webapp\WEB-INF\ftl\supplier\representative" />
+      <recent name="E:\源码\fish-web\src\main\webapp\WEB-INF\ftl\invoice\application" />
+      <recent name="E:\源码\fish-web\src\main\webapp\WEB-INF\ftl\text\management" />
+      <recent name="E:\源码\fish-web\src\main\webapp\WEB-INF\ftl\questionnaire\star" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ff.order.dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.fish-web [tomcat7:run]">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateExcelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateExcelTest" />
+      <module name="fish-web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kuaidi100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ff.common.util.Kuaidi100" />
+      <module name="fish-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ff.job.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ff.MpGenerator" />
+      <module name="fish-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fish-service [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/fish-service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="fish-web [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/fish-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fish.test.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.fish-service [tomcat7:run]" />
+      <item itemvalue="Maven.fish-web [tomcat7:run]" />
+      <item itemvalue="Spring Boot.TestApplication" />
+      <item itemvalue="Application.MpGenerator" />
+      <item itemvalue="Application.Kuaidi100" />
+      <item itemvalue="Application.CreateExcelTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CreateExcelTest" />
+        <item itemvalue="Application.Kuaidi100" />
+        <item itemvalue="Application.MpGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\10312\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2280c49-1704-46c6-aa83-16a8604a4428" name="Default" comment="" />
+      <created>1502348776350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502348776350</updated>
+      <workItem from="1502348780100" duration="1123000" />
+      <workItem from="1502376713065" duration="26927000" />
+      <workItem from="1502468087242" duration="101000" />
+      <workItem from="1502469266187" duration="594000" />
+      <workItem from="1502632910355" duration="13738000" />
+      <workItem from="1502676138787" duration="13138000" />
+      <workItem from="1502758631287" duration="22068000" />
+      <workItem from="1502865069424" duration="3717000" />
+      <workItem from="1502897061185" duration="6781000" />
+      <workItem from="1502931743131" duration="5287000" />
+      <workItem from="1503156680610" duration="1195000" />
+      <workItem from="1503373328091" duration="2045000" />
+      <workItem from="1503389389032" duration="497000" />
+      <workItem from="1504021207022" duration="3300000" />
+      <workItem from="1504237293343" duration="293000" />
+      <workItem from="1504321465534" duration="10461000" />
+      <workItem from="1504528118671" duration="3185000" />
+      <workItem from="1504581567230" duration="8697000" />
+      <workItem from="1504682796041" duration="491000" />
+      <workItem from="1504683451284" duration="174000" />
+      <workItem from="1504684046372" duration="12750000" />
+      <workItem from="1504746167088" duration="3028000" />
+      <workItem from="1504753973004" duration="1660000" />
+      <workItem from="1504762948592" duration="672000" />
+      <workItem from="1504770937592" duration="2524000" />
+      <workItem from="1504790846431" duration="21015000" />
+      <workItem from="1504895041333" duration="1876000" />
+      <workItem from="1505221264673" duration="10990000" />
+      <workItem from="1505232350072" duration="196000" />
+      <workItem from="1505232815160" duration="559000" />
+      <workItem from="1505233491301" duration="22427000" />
+      <workItem from="1505349684676" duration="13000" />
+      <workItem from="1505351844259" duration="18350000" />
+      <workItem from="1505493991881" duration="930000" />
+      <workItem from="1505728587932" duration="666000" />
+      <workItem from="1505733955298" duration="169000" />
+      <workItem from="1505738468284" duration="688000" />
+      <workItem from="1505743374574" duration="947000" />
+      <workItem from="1505744440407" duration="2350000" />
+      <workItem from="1505746874988" duration="392000" />
+      <workItem from="1505747298109" duration="490000" />
+      <workItem from="1505747984997" duration="697000" />
+      <workItem from="1505748818080" duration="1761000" />
+      <workItem from="1505753089707" duration="688000" />
+      <workItem from="1505754424673" duration="62000" />
+      <workItem from="1505755011112" duration="497000" />
+      <workItem from="1505781517107" duration="1542000" />
+      <workItem from="1505834589370" duration="1256000" />
+      <workItem from="1505868356287" duration="603000" />
+      <workItem from="1505913342219" duration="1112000" />
+      <workItem from="1506008036899" duration="1159000" />
+      <workItem from="1506041641302" duration="636000" />
+      <workItem from="1506236650019" duration="883000" />
+      <workItem from="1506323949283" duration="8373000" />
+      <workItem from="1506408220941" duration="2742000" />
+      <workItem from="1506429098136" duration="14460000" />
+      <workItem from="1507209567286" duration="17567000" />
+      <workItem from="1507300596401" duration="16586000" />
+      <workItem from="1507391544622" duration="11379000" />
+      <workItem from="1507778189539" duration="9306000" />
+      <workItem from="1507855025156" duration="1439000" />
+      <workItem from="1507994752535" duration="18903000" />
+      <workItem from="1508156902396" duration="5148000" />
+      <workItem from="1508424288723" duration="2698000" />
+      <workItem from="1509727261489" duration="872000" />
+      <workItem from="1510024871021" duration="1195000" />
+      <workItem from="1510105849372" duration="4818000" />
+      <workItem from="1510120562280" duration="1444000" />
+      <workItem from="1510130582818" duration="3737000" />
+      <workItem from="1510194318491" duration="8499000" />
+      <workItem from="1510649861090" duration="914000" />
+      <workItem from="1510738995144" duration="1577000" />
+      <workItem from="1510796205000" duration="8001000" />
+      <workItem from="1513133056033" duration="1790000" />
+      <workItem from="1513408021426" duration="320000" />
+      <workItem from="1514469054130" duration="1996000" />
+      <workItem from="1514507294419" duration="28000" />
+      <workItem from="1514597051219" duration="18058000" />
+      <workItem from="1514778517446" duration="1786000" />
+      <workItem from="1514783300655" duration="1392000" />
+      <workItem from="1514811491055" duration="9073000" />
+      <workItem from="1514854703861" duration="1112000" />
+      <workItem from="1514903002946" duration="5097000" />
+      <workItem from="1515027034641" duration="872000" />
+      <workItem from="1515050156571" duration="1447000" />
+      <workItem from="1515158593336" duration="64101000" />
+      <workItem from="1515426538066" duration="1766000" />
+      <workItem from="1515482028524" duration="6382000" />
+      <workItem from="1515814358227" duration="21002000" />
+      <workItem from="1515921057002" duration="8557000" />
+      <workItem from="1515976856210" duration="17000" />
+      <workItem from="1516063239523" duration="46000" />
+      <workItem from="1516105015954" duration="47000" />
+      <workItem from="1516117019639" duration="19000" />
+      <workItem from="1516199502398" duration="6453000" />
+      <workItem from="1516237739844" duration="166000" />
+      <workItem from="1516278203965" duration="8959000" />
+      <workItem from="1516290828514" duration="3568000" />
+      <workItem from="1516330727853" duration="1217000" />
+      <workItem from="1516417750087" duration="21354000" />
+      <workItem from="1516443269318" duration="22000" />
+      <workItem from="1516443851847" duration="6688000" />
+      <workItem from="1516458286650" duration="831000" />
+      <workItem from="1516712438618" duration="5928000" />
+      <workItem from="1516886758708" duration="4048000" />
+      <workItem from="1517057658498" duration="28717000" />
+      <workItem from="1517151822166" duration="2234000" />
+      <workItem from="1517187321986" duration="330000" />
+      <workItem from="1517230610603" duration="7180000" />
+      <workItem from="1517272680828" duration="711000" />
+      <workItem from="1517319428255" duration="8685000" />
+      <workItem from="1517534199288" duration="1103000" />
+      <workItem from="1517993956125" duration="4096000" />
+      <workItem from="1518165393872" duration="5358000" />
+      <workItem from="1518328976537" duration="14241000" />
+      <workItem from="1518399578996" duration="4097000" />
+      <workItem from="1518446406793" duration="4790000" />
+      <workItem from="1519389156112" duration="25000" />
+      <workItem from="1519481485485" duration="824000" />
+      <workItem from="1519653105783" duration="990000" />
+      <workItem from="1519734141279" duration="709000" />
+      <workItem from="1519825021601" duration="31000" />
+      <workItem from="1519825592887" duration="4430000" />
+      <workItem from="1520178543925" duration="1991000" />
+      <workItem from="1520316109202" duration="1224000" />
+      <workItem from="1520339869964" duration="3411000" />
+      <workItem from="1520347661024" duration="5273000" />
+      <workItem from="1520354854824" duration="91000" />
+      <workItem from="1520382665993" duration="50000" />
+      <workItem from="1520405747952" duration="7075000" />
+      <workItem from="1520430207494" duration="4725000" />
+      <workItem from="1520436161920" duration="2416000" />
+      <workItem from="1520477843107" duration="4803000" />
+      <workItem from="1521120861693" duration="5767000" />
+      <workItem from="1521214452926" duration="8158000" />
+      <workItem from="1521358768743" duration="470000" />
+      <workItem from="1522588071279" duration="8604000" />
+      <workItem from="1522745784208" duration="2026000" />
+      <workItem from="1522760565699" duration="2868000" />
+      <workItem from="1522803613390" duration="1904000" />
+      <workItem from="1523022360336" duration="8353000" />
+      <workItem from="1523149441976" duration="10198000" />
+      <workItem from="1523189773080" duration="3332000" />
+      <workItem from="1523235359406" duration="10222000" />
+      <workItem from="1523321200776" duration="856000" />
+      <workItem from="1523406968666" duration="167000" />
+      <workItem from="1523840912877" duration="1821000" />
+      <workItem from="1523879634752" duration="1807000" />
+      <workItem from="1523926761302" duration="9356000" />
+      <workItem from="1524012071677" duration="997000" />
+      <workItem from="1524039027515" duration="686000" />
+      <workItem from="1524097535471" duration="13178000" />
+      <workItem from="1524185723512" duration="13145000" />
+      <workItem from="1524229248775" duration="9481000" />
+      <workItem from="1524271623321" duration="9012000" />
+      <workItem from="1524310760105" duration="2656000" />
+      <workItem from="1524378804599" duration="3102000" />
+      <workItem from="1524444288473" duration="72000" />
+      <workItem from="1524560653218" duration="3568000" />
+      <workItem from="1524647970639" duration="1390000" />
+      <workItem from="1524663464102" duration="1359000" />
+      <workItem from="1524702930202" duration="741000" />
+      <workItem from="1524721348704" duration="5000" />
+      <workItem from="1524727157660" duration="8891000" />
+      <workItem from="1524820851521" duration="1206000" />
+      <workItem from="1524920356338" duration="1292000" />
+      <workItem from="1525013395530" duration="713000" />
+      <workItem from="1525053610420" duration="4403000" />
+      <workItem from="1525182837402" duration="4171000" />
+      <workItem from="1525220842448" duration="9116000" />
+      <workItem from="1525271295847" duration="3003000" />
+      <workItem from="1525307245097" duration="7556000" />
+      <workItem from="1525357954231" duration="1915000" />
+      <workItem from="1525393325293" duration="747000" />
+      <workItem from="1525434082203" duration="28000" />
+      <workItem from="1525481130093" duration="2768000" />
+      <workItem from="1525495190807" duration="2588000" />
+      <workItem from="1525614418236" duration="2592000" />
+      <workItem from="1525624923474" duration="28000" />
+      <workItem from="1525880682482" duration="1716000" />
+      <workItem from="1525911914219" duration="77000" />
+      <workItem from="1525941852925" duration="466000" />
+      <workItem from="1525960445437" duration="3179000" />
+      <workItem from="1525998288034" duration="1697000" />
+      <workItem from="1526029987600" duration="22000" />
+      <workItem from="1526086253235" duration="590000" />
+      <workItem from="1527728564138" duration="3090000" />
+      <workItem from="1527771534393" duration="1442000" />
+      <workItem from="1527813317552" duration="64000" />
+      <workItem from="1527898207943" duration="396000" />
+      <workItem from="1527987788457" duration="5427000" />
+      <workItem from="1527997039859" duration="136000" />
+      <workItem from="1528072671961" duration="956000" />
+      <workItem from="1528118273761" duration="614000" />
+      <workItem from="1528159733047" duration="2613000" />
+      <workItem from="1528270289604" duration="905000" />
+      <workItem from="1528331424278" duration="1195000" />
+      <workItem from="1528377868262" duration="594000" />
+      <workItem from="1528476388943" duration="28000" />
+      <workItem from="1528646677652" duration="53000" />
+      <workItem from="1528686752840" duration="70000" />
+      <workItem from="1528813190633" duration="657000" />
+      <workItem from="1528856077554" duration="389000" />
+      <workItem from="1528856584374" duration="13297000" />
+      <workItem from="1528904957978" duration="606000" />
+      <workItem from="1528937842160" duration="587000" />
+      <workItem from="1528993675959" duration="18000" />
+      <workItem from="1529046059686" duration="6584000" />
+      <workItem from="1529053408699" duration="2594000" />
+      <workItem from="1529073249735" duration="5737000" />
+      <workItem from="1529284244600" duration="66000" />
+      <workItem from="1529425184527" duration="4168000" />
+      <workItem from="1529463768624" duration="42000" />
+      <workItem from="1529487209423" duration="189000" />
+      <workItem from="1529548096087" duration="3325000" />
+      <workItem from="1529682714030" duration="32086000" />
+      <workItem from="1529918446702" duration="820000" />
+      <workItem from="1529994569302" duration="1291000" />
+      <workItem from="1530405777524" duration="10547000" />
+      <workItem from="1530449254463" duration="370000" />
+      <workItem from="1530537837373" duration="305000" />
+      <workItem from="1531237543569" duration="969000" />
+      <workItem from="1531403615561" duration="632000" />
+      <workItem from="1531461271973" duration="32000" />
+      <workItem from="1531529614494" duration="4499000" />
+      <workItem from="1531615486701" duration="627000" />
+      <workItem from="1531633109812" duration="126000" />
+      <workItem from="1531704756361" duration="53000" />
+      <workItem from="1531722630084" duration="51000" />
+      <workItem from="1531757265402" duration="19000" />
+      <workItem from="1531794494286" duration="62000" />
+      <workItem from="1531833585770" duration="24000" />
+      <workItem from="1532224354859" duration="3133000" />
+      <workItem from="1532268635377" duration="80000" />
+      <workItem from="1532335380501" duration="4443000" />
+      <workItem from="1532353650504" duration="1395000" />
+      <workItem from="1532417341383" duration="5599000" />
+      <workItem from="1532439203556" duration="1443000" />
+      <workItem from="1532478694749" duration="170000" />
+      <workItem from="1532486025651" duration="74000" />
+      <workItem from="1532566141718" duration="131000" />
+      <workItem from="1555640142639" duration="5683000" />
+      <workItem from="1555666565451" duration="679000" />
+      <workItem from="1555824119739" duration="634000" />
+      <workItem from="1555894201951" duration="24355000" />
+      <workItem from="1555980362375" duration="31165000" />
+      <workItem from="1556068868420" duration="26527000" />
+      <workItem from="1556154183944" duration="24832000" />
+      <workItem from="1556239660486" duration="21565000" />
+      <workItem from="1556413365670" duration="19661000" />
+      <workItem from="1556499057509" duration="8694000" />
+      <workItem from="1556512095874" duration="13575000" />
+      <workItem from="1557017018196" duration="13241000" />
+      <workItem from="1557103930780" duration="2917000" />
+      <workItem from="1557192602354" duration="11211000" />
+      <workItem from="1557277510772" duration="26655000" />
+      <workItem from="1557362874593" duration="25361000" />
+      <workItem from="1557449520171" duration="2455000" />
+      <workItem from="1557455391324" duration="2841000" />
+      <workItem from="1557709265119" duration="2183000" />
+      <workItem from="1557796636515" duration="1864000" />
+      <workItem from="1557882489770" duration="3077000" />
+      <workItem from="1557969640503" duration="1306000" />
+      <workItem from="1558055257373" duration="4252000" />
+      <workItem from="1558314593339" duration="8762000" />
+      <workItem from="1558401182788" duration="5243000" />
+      <workItem from="1558487459599" duration="1935000" />
+      <workItem from="1558489614610" duration="2302000" />
+      <workItem from="1558574558945" duration="5367000" />
+      <workItem from="1558600573464" duration="1292000" />
+      <workItem from="1558664404351" duration="4781000" />
+      <workItem from="1558919352751" duration="7344000" />
+      <workItem from="1559005649868" duration="4604000" />
+      <workItem from="1559092113023" duration="10847000" />
+      <workItem from="1559178899400" duration="838000" />
+      <workItem from="1559264613995" duration="1485000" />
+      <workItem from="1559524101769" duration="6347000" />
+      <workItem from="1559610413552" duration="21029000" />
+      <workItem from="1559697099429" duration="4390000" />
+      <workItem from="1559781585697" duration="6198000" />
+      <workItem from="1560136556965" duration="2667000" />
+      <workItem from="1560218905931" duration="8829000" />
+      <workItem from="1560301638624" duration="3582000" />
+      <workItem from="1560388654289" duration="11999000" />
+      <workItem from="1560472663802" duration="2442000" />
+      <workItem from="1560733796300" duration="16159000" />
+      <workItem from="1560820397367" duration="768000" />
+      <workItem from="1560906572146" duration="1588000" />
+      <workItem from="1560993001127" duration="878000" />
+      <workItem from="1561078746926" duration="1984000" />
+      <workItem from="1561338561647" duration="10207000" />
+      <workItem from="1561362247244" duration="1564000" />
+      <workItem from="1561424919948" duration="5749000" />
+      <workItem from="1561520937172" duration="1378000" />
+      <workItem from="1561533745587" duration="661000" />
+      <workItem from="1561597710079" duration="4170000" />
+      <workItem from="1561619671096" duration="1193000" />
+      <workItem from="1561705092820" duration="4103000" />
+      <workItem from="1561943147456" duration="1855000" />
+      <workItem from="1562038325581" duration="2087000" />
+      <workItem from="1562554416311" duration="984000" />
+      <workItem from="1562558230024" duration="719000" />
+      <workItem from="1562562604117" duration="221000" />
+      <workItem from="1562562867115" duration="33000" />
+      <workItem from="1562563127935" duration="613000" />
+      <workItem from="1562563777300" duration="22000" />
+      <workItem from="1562569818923" duration="645000" />
+      <workItem from="1562572178886" duration="1577000" />
+      <workItem from="1562651450076" duration="655000" />
+      <workItem from="1562742846922" duration="647000" />
+      <workItem from="1562743536905" duration="104000" />
+      <workItem from="1562747432413" duration="201000" />
+      <workItem from="1562747962064" duration="305000" />
+      <workItem from="1563950986365" duration="1450000" />
+      <workItem from="1564190072877" duration="37000" />
+      <workItem from="1564994702062" duration="3492000" />
+      <workItem from="1564998339420" duration="347000" />
+      <workItem from="1565053595200" duration="21898000" />
+      <workItem from="1565139806895" duration="5014000" />
+      <workItem from="1565399956351" duration="113000" />
+      <workItem from="1575861546683" duration="7188000" />
+      <workItem from="1576198979087" duration="1506000" />
+      <workItem from="1576203941749" duration="660000" />
+      <workItem from="1576223926223" duration="1225000" />
+      <workItem from="1576227022677" duration="16000" />
+      <workItem from="1576458491057" duration="1742000" />
+      <workItem from="1576463545785" duration="69000" />
+      <workItem from="1576548020316" duration="2026000" />
+      <workItem from="1576744131412" duration="1660000" />
+      <workItem from="1576820148136" duration="3658000" />
+      <workItem from="1577339223408" duration="4976000" />
+      <workItem from="1577944950530" duration="310000" />
+      <workItem from="1578454472089" duration="384000" />
+      <workItem from="1578463251890" duration="2582000" />
+      <workItem from="1578986734229" duration="913000" />
+      <workItem from="1578990000615" duration="501000" />
+      <workItem from="1590132619777" duration="680000" />
+      <workItem from="1590244009274" duration="3504000" />
+      <workItem from="1590393373555" duration="49000" />
+      <workItem from="1590482820243" duration="187000" />
+      <workItem from="1590483206143" duration="10000" />
+      <workItem from="1592898789375" duration="2532000" />
+      <workItem from="1592960997085" duration="5483000" />
+      <workItem from="1593321081896" duration="4540000" />
+      <workItem from="1593410896402" duration="3076000" />
+      <workItem from="1593479677123" duration="5082000" />
+      <workItem from="1593567023603" duration="79000" />
+      <workItem from="1593739377819" duration="795000" />
+      <workItem from="1593740350528" duration="163000" />
+      <workItem from="1594863982952" duration="44000" />
+      <workItem from="1595233681587" duration="217000" />
+      <workItem from="1595317345262" duration="4799000" />
+      <workItem from="1595379758246" duration="1340000" />
+      <workItem from="1595469739757" duration="4590000" />
+      <workItem from="1595568455128" duration="9391000" />
+      <workItem from="1595597481047" duration="1739000" />
+      <workItem from="1595812030325" duration="8863000" />
+      <workItem from="1595898748964" duration="13389000" />
+      <workItem from="1595985871382" duration="5169000" />
+      <workItem from="1596080832704" duration="2833000" />
+      <workItem from="1596101711815" duration="657000" />
+      <workItem from="1596158772119" duration="23000" />
+      <workItem from="1597288796826" duration="5183000" />
+      <workItem from="1597370674575" duration="6668000" />
+      <workItem from="1597627146949" duration="1256000" />
+      <workItem from="1597728882315" duration="3261000" />
+      <workItem from="1597739961769" duration="26000" />
+      <workItem from="1599206800527" duration="127000" />
+      <workItem from="1599208728635" duration="1218000" />
+      <workItem from="1599211253256" duration="641000" />
+      <workItem from="1599440369905" duration="53000" />
+      <workItem from="1599442242732" duration="90000" />
+      <workItem from="1599465444532" duration="1600000" />
+      <workItem from="1599467236273" duration="879000" />
+      <workItem from="1599469546247" duration="793000" />
+      <workItem from="1599532709155" duration="6546000" />
+      <workItem from="1599555785279" duration="41000" />
+      <workItem from="1599703310718" duration="12000" />
+      <workItem from="1599703603618" duration="142000" />
+      <workItem from="1599708674852" duration="468000" />
+      <workItem from="1599710002591" duration="788000" />
+      <workItem from="1599712743124" duration="657000" />
+      <workItem from="1599714763551" duration="526000" />
+      <workItem from="1599719490470" duration="700000" />
+      <workItem from="1599720515989" duration="625000" />
+      <workItem from="1599786413509" duration="194000" />
+      <workItem from="1600060182201" duration="177000" />
+      <workItem from="1600060526295" duration="313000" />
+      <workItem from="1600062547044" duration="3299000" />
+      <workItem from="1600067888771" duration="392000" />
+      <workItem from="1600072209068" duration="18000" />
+      <workItem from="1601432383107" duration="663000" />
+      <workItem from="1603683172656" duration="607000" />
+      <workItem from="1605074789919" duration="39000" />
+    </task>
+    <task id="LOCAL-00001" summary="OK">
+      <created>1502349236553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502349236553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="OK">
+      <created>1517329119030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517329119030</updated>
+    </task>
+    <task id="LOCAL-00003" summary="OK">
+      <created>1517329211203</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517329211203</updated>
+    </task>
+    <task id="LOCAL-00004" summary="OK">
+      <created>1517329244207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1517329244207</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 31m 19s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 31m 40s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 35m 43s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 37m 03s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 38m 29s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 40m 26s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 43m 21s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 43m 47s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 44m 07s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateExcelTest - 2019.08.05 at 17h 47m 23s.xml">
+      <configuration name="CreateExcelTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1656787000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" weight="0.24886535" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Web" order="4" sideWeight="0.35250464" side_tool="true" weight="0.17623281" />
+      <window_info id="JRebel" order="5" sideWeight="0.31896552" side_tool="true" weight="0.2647504" />
+      <window_info id="Favorites" order="6" sideWeight="0.42288557" side_tool="true" weight="0.25141472" />
+      <window_info id="Designer" order="7" />
+      <window_info active="true" content_ui="combo" x="594" y="56" width="427" height="728" id="Project" order="8" sideWeight="0.6474954" visible="true" weight="0.2829426" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49694657" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7008892" weight="0.46567717" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.8609539" weight="0.14100185" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.13904607" side_tool="true" weight="0.36363637" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" sideWeight="0.1709531" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="JRebel Executor" order="8" />
+      <window_info anchor="bottom" x="549" y="343" width="464" height="132" id="Java Enterprise" order="9" type="WINDOWED" weight="0.3270869" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" weight="0.32786885" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.32786885" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3265306" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.48423606" weight="0.43599257" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.20408164" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2489895" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" sideWeight="0.49759614" weight="0.2497979" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.15114504" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" side_tool="true" weight="0.32902184" />
+      <window_info anchor="right" id="Maven Projects" order="9" sideWeight="0.50240386" side_tool="true" weight="0.2166532" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="OK" />
+    <option name="LAST_COMMIT_MESSAGE" value="OK" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/order/service/impl/OrderGoodsServiceImpl.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/javen205/IJPay/0.9/IJPay-0.9.jar!/com/jpay/weixin/api/WxPayApiConfigKit.class</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/order/service/impl/OrderServiceImpl.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fish-web/src/main/java/com/ff/order/controller/OrderController.java</url>
+          <line>200</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/job/service/impl/TaskB.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fish-common/src/main/java/com/ff/common/shiro/RedisCache.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fish-common/src/main/java/com/ff/common/shiro/RedisCache.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fish-web/src/main/java/com/ff/shop/controller/ShopCouponController.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/shop/dao/ShopMoneyMapper.java</url>
+          <line>26</line>
+          <properties class="com.ff.shop.dao.ShopMoneyMapper" method="addLog" />
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/shop/dao/ShopOrderMapper.java</url>
+          <line>31</line>
+          <properties class="com.ff.shop.dao.ShopOrderMapper" method="selectListByUserId" />
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/resources/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/hplus/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1460" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/hplus/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3819" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/hplus/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/hplus/css/plugins/bootstrap-table/bootstrap-table.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/hplus/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/hplus/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/hplus/js/jquery-ui.custom.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/hplus/js/jquery-ui-1.10.4.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/treeTable/jquery.treeTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-common/src/main/java/com/ff/common/util/keyword/RegexKeywordFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-common/src/main/java/com/ff/common/annotation/SysLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/static/Cron/cron.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.0.RELEASE/spring-beans-4.3.0.RELEASE.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.0.9.RELEASE/spring-context-support-4.0.9.RELEASE.jar!/org/springframework/scheduling/quartz/AdaptableJobFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3.jar!/org/quartz/JobExecutionContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3.jar!/org/quartz/impl/jdbcjobstore/JobStoreTX.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/system/dao/RoleResourcesMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/system/dao/UserRoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.3/quartz-2.2.3.jar!/org/quartz/Scheduler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="54" column="50" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/job/TaskShopCoupon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/job/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/job/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/job/JobFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/java/com/ff/system/service/impl/ScheduleJobServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2774">
+          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-api/src/main/java/com/ff/system/model/ScheduleJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-api/src/main/java/com/ff/system/service/ScheduleJobService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="55" column="41" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="75" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/invoice/application/show.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3534" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/webapp/WEB-INF/ftl/invoice/application/list.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="267" column="19" selection-start-line="267" selection-start-column="13" selection-end-line="267" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/spring-activiti.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/spring-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/resources/spring-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/java/com/ff/InvoiceApplication/InvoiceApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="112" column="94" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-web/src/main/resources/spring-mq.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/spring-mq.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.0.9.RELEASE/spring-context-support-4.0.9.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="101" column="16" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="254" column="26" selection-start-line="254" selection-start-column="16" selection-end-line="254" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/quartz.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/spring-quartz.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-service/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>fish-web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48834628" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48834628" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3011111" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3011111" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fish-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3011111" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-context-support:4.0.9.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48834628" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
